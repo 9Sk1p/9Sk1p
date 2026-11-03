@@ -19,8 +19,14 @@ I'm looking for a **frontend internship or junior developer opportunity in Pragu
 | --- | --- |
 | [Fares](https://github.com/9Sk1p/fares_web) · [Live website](https://www.autofares.cz/) | Responsive Czech/Russian React website, navigation, gallery and dialogs. |
 | [AgroLend](https://github.com/qqxzew/agrolend-) | Frontend workflows, map-based parcel selection, workspace assistant and consent-based clustering in a team project. |
-| [Push_swap](https://github.com/9Sk1p/Push_swap) | Parsing, integer validation, error handling and stack-related work in a collaborative C project. |
+| [Push_swap](https://github.com/9Sk1p/Push_swap) | Developed most of the implementation across sorting strategies, stack operations, parsing, validation and memory handling in a collaborative C project. |
 | [AML Triage Copilot](https://github.com/notOlovo/AML) | Streamlit client-review interfaces, tables and visual styling in a team prototype. |
+
+### More C projects from 42 Prague
+
+- [ft_printf](https://github.com/9Sk1p/ft_printf) - variadic formatted output for characters, strings, integers, hexadecimal values and pointers.
+- [get_next_line](https://github.com/9Sk1p/get_next_line) - buffered, line-by-line reading from file descriptors with persistent state and dynamic memory.
+- [Libft](https://github.com/9Sk1p/Libft_20_08_2026) - utilities for strings, memory and linked lists.
 
 ### Education and hackathons
 
